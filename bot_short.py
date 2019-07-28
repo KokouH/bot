@@ -10,8 +10,8 @@ from time import sleep
 from threading import Thread
 
 bot = Binance(
-    API_KEY='',
-    API_SECRET=''
+    API_KEY='XN0RzhlI0KyMgZN0yOduHMZU0c4vqy8aQmARqBxeyHfQ41w7WpFBTF9mEJM53N7O',
+    API_SECRET='BOzn7QSHspOPGUDy4Ulmv5um4vkKIeKZMIb6g7Ci104a0XsUnCp1b07BQjuy6Yvf'
 )
 
 sets = [dict(
